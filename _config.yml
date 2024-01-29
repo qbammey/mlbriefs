@@ -30,7 +30,9 @@ description:           >
   The IPOL MLBriefs workshop-hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination. 
 
 # A shorter description for the sidebar.
-tagline:  <b>May 27<sup>th</sup> — May 31<sup>st</sup>, 2024 </b><br /><em> École Normale Supérieure Paris-Saclay, France.</em><br /><br />The IPOL MLBriefs workshop-hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
+tagline:  <b>May 27<sup>th</sup> — May 31<sup>st</sup>, 2024 </b><br /><em> École Normale Supérieure Paris-Saclay, France.</em><br /><br />Learn to create online demos and technical articles, and promote reproducible research!
+  
+  #  The IPOL MLBriefs workshop-hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
 
 # A list of keywords for your blog
 keywords:              [IPOL, MLBriefs, reproducible research, online demo, image processing, signal processing, video processing, computer vision, machine learning]
@@ -97,7 +99,7 @@ paginate_path:         /blog/:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 # remote_theme: hydecorp/hydejack@v9
 # remote_theme: hydecorp/hydejack@v9.1.6
 
@@ -315,10 +317,7 @@ collections:
   previous:
     permalink:         /previous/:path/
     output:            true
-  
-  research:
-    permalink:         /research/:title/
-    output:            true
+
 
 
 

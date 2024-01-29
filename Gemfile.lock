@@ -34,7 +34,6 @@ GEM
       simpleidn (~> 0.2.1)
     drb (2.2.0)
       ruby2_keywords
-    duktape (2.7.0.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -46,8 +45,6 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
-    faraday-retry (2.2.0)
-      faraday (~> 2.0)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -133,6 +130,8 @@ GEM
       jekyll (~> 3.9.0)
       jekyll-commonmark (~> 1.4.0)
       rouge (>= 2.0, < 5.0)
+    jekyll-compose (0.12.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
@@ -278,22 +277,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  duktape
-  faraday-retry (~> 2.2)
   github-pages
   jekyll (~> 3.8)
-  jekyll-default-layout
-  jekyll-feed
+  jekyll-compose
   jekyll-include-cache
-  jekyll-optional-front-matter
-  jekyll-paginate
-  jekyll-readme-index
-  jekyll-redirect-from
-  jekyll-relative-links
-  jekyll-seo-tag
-  jekyll-sitemap
   jekyll-theme-hydejack!
-  jekyll-titles-from-headings
   json
   webrick
 
