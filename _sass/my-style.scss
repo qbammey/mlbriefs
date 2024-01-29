@@ -1,0 +1,38 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+
+.project-card-img{border-top-left-radius:0rem;border-top-right-radius:0rem}
+
+.aspect-ratio{
+  img{
+  object-fit:contain;
+}
+}
+
+.content .aspect-ratio{
+  object-fit:contain;
+}
+
+//  margin:0;width:100%;height:100%;object-fit:contain;object-position:center;background-color:var(--gray-bg)}
+
+// .lead.aspect-ratio.sixteen-nine { 
+//   border: 1px solid var(--border-color);
+//   transition: border-color 500ms ease;
+// }
