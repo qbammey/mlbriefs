@@ -278,7 +278,7 @@ PLATFORMS
 DEPENDENCIES
   duktape
   github-pages
-  jekyll
+  jekyll (~> 3.8)
   jekyll-default-layout
   jekyll-feed
   jekyll-include-cache
