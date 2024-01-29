@@ -26,8 +26,7 @@ title:                 IPOL MLBriefs 4
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  May 27<sup>th</sup> — May 31<sup>st</sup>, 2024 <br /> École Normale Supérieure Paris-Saclay, France
-  The IPOL MLBriefs workshop-hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination. 
+  The IPOL MLBriefs workshop and hackathon (May 27<sup>th</sup> — May 31<sup>st</sup>, 2024, École Normale Supérieure Paris-Saclay, France) is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination of machine learning, image and signal computing, computer vision, and other methods. 
 
 # A shorter description for the sidebar.
 tagline:  <b>May 27<sup>th</sup> — May 31<sup>st</sup>, 2024 </b><br /><em> École Normale Supérieure Paris-Saclay, France.</em><br /><br />Learn to create online demos and technical articles, and promote reproducible research!
