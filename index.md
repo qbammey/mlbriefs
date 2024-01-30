@@ -15,4 +15,4 @@ to **create and publish an online demo of a method** with a companion technical 
 
 This workshop will be also be a great opportunity to **meet fellow researchers** and attend plenary talks from invited speakers.
 
-**Registration is free but mandatory. You can register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdWX29KpiDAtGN1KnJMXO24JE4ycpcovenixJBcK-RCtWWbrw/viewform?usp=sf_link).**
+**Registration is free but mandatory. Please register by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdWX29KpiDAtGN1KnJMXO24JE4ycpcovenixJBcK-RCtWWbrw/viewform?usp=sf_link) by __March 16<sup>th</sup>__.**
