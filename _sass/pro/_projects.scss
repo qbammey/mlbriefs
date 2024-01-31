@@ -70,11 +70,11 @@ main:not(.layout-resume) {
 
     page-break-inside: avoid;
 
-    transition: transform 500ms ease;
+    transition: transform 50ms ease;
     will-change: transform;
     &:hover {
       transform: translateY(-0.25rem);
-      transition: transform 250ms ease;
+      transition: transform 150ms ease;
     }
 
     > a.flip-project {

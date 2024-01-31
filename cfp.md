@@ -6,9 +6,9 @@ cover: false
 
 Submissions consist of an online demo of a method, with a paper describing and analysing the method. Starting from a working code, you will be taught how to create a demo during the workshop. The companion paper describes the method and experiments on it.
 
-* Contrary to many workshop, you are invited to prepare your submission **during** the workshopt. You will be given time to submit the paper after the workshop ends.
+* Contrary to many workshops, you are invited to prepare your submission **during** the workshop. You will be given time to submit the paper after the workshop ends.
 It is **not** expected that you submit the paper before the workshop starts.
-* IPOL and MLBriefs publications act as companions to more traditional publications. It is usually allowed, and even encouraged, to submit an article covering an already-published method.
+* IPOL and MLBriefs publications usually act as companions to more traditional publications. It is allowed, and even encouraged, to submit an article covering an already-published method.
 Please check our [authorship and double submission policy below](#dual) for more information.
 * Due to the growing number of submissions, all authors may be asked to review several papers.
 {:.note}
@@ -21,12 +21,12 @@ Areas of submission are broad; the IPOL journal mainly focuses on (but is not li
 * Signal processing
 
 ## Tracks
-Papers can be submitted to different tracks. The IPOL tracks are open year-long (Check the [IPOL](https://www.ipol.im) website to submit), while the MLBriefs track will open during the workshop and stay open for at least one month.
+Papers can be submitted to different tracks. The IPOL tracks are open year-long (Check the [IPOL](https://www.ipol.im) website to submit), while the MLBriefs track will open during the workshop and stay open for at least one month after the workshop ends.
 
 ### MLBriefs track
 In this track, authors submit an online demo accompanied by a typically short paper (around 5 single-columns pages) describing the method.
 The paper is expected to contain a description of the implemented method and its parameters, as well as mainly qualitative experiments that highlights its strengths and shortcomings.
-In the MLBriefs tracks, only the paper and the demonstrator are peer-reviewed; the implementation itself is not peer-reviewed.
+In the MLBriefs tracks, only the paper and the demo are peer-reviewed; the implementation itself is not peer-reviewed.
 The code that is used for the demo does not necessarily needs to be the authors' code, as long as the licence of the code is respected.
 
 ### MLBriefs Survey track
