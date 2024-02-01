@@ -24,33 +24,29 @@ Areas of submission are broad; the IPOL journal mainly focuses on (but is not li
 Papers can be submitted to different tracks. The IPOL tracks are open year-long (Check the [IPOL](https://www.ipol.im) website to submit), while the MLBriefs track will open during the workshop and stay open for at least one month after the workshop ends.
 
 ### MLBriefs track
-In this track, authors submit an online demo accompanied by a typically short paper (around 5 single-columns pages) describing the method.
-The paper is expected to contain a description of the implemented method and its parameters, as well as mainly qualitative experiments that highlights its strengths and shortcomings.
-In the MLBriefs tracks, only the paper and the demo are peer-reviewed; the implementation itself is not peer-reviewed.
+In this track, authors submit an online demo accompanied by a technical paper analysing and experimenting on the method.
+At the very least, the paper is expected to contain a description of the implemented method and its parameters, as well as experiments (both qualitative and quantitative) highlighting its strengths and shortcomings.
 The code that is used for the demo does not necessarily needs to be the authors' code, as long as the licence of the code is respected.
 
-### MLBriefs Survey track
-A Survey track submission is more extensive than an MLBriefs track paper. In the Survey track, several methods are compared in one paper. One demo per method is usually expected, although one demo may regroup several methods if they are deemed close enough.
-In addition to the description of each method and its parameters, the submitted paper should compare the different methods at all stages:
+Even though the method does not need to be new, the paper is expected to provide added value relative to the original paper, which makes the article interesting to read in addition to/instead of the paper originally describing the method. This added value, which must be discussed in the introduction of the paper. The added values to the paper include, but are not limited to:
+* **Survey:** Rather than working on a single method, create demos for an array of different methods. The paper can then analyse how the methods differ, and how it can affect the results. The qualitative and quantitative experiments should be done comparatively, to explain the differing results, use cases, and limitations. If possible, those results should be linked to the theoretical analysis to explain why the results differ. The choice of compared methods should also be discussed. Full exhaustivity is of course not required — some methods have no published code, or the licence prevents use in IPOL —, but there should be some reasoning behind the choice of methods (e. g. comparing methods that follow a specific approach, or recent methods to further easy experimentation on them, etc)
+* **Simplification:** Some published methods are very interesting, but also highly technical and complicated to read, either by themselves or due to low accessibility without specific prior knowledge. Yet, these methods can often be insightful for people from other domains, that do not have the required knowledge to read the method. Therefore, articles that take a complicated method and explain it in a more simple way, or from a different point of view, can be very interesting to many people.
+* **Analysis:** On the other hand, some methods that are published work very well, but it is not understood why. Theoretical and experimental analysis of where and why the method works, to better specify the use cases and limitation of the method, are welcome.
+* **Method improvements and domain adaptation**: When implementing a method, you can sometimes think of small changes or improvements that lead to better results or usability of the method in new domains.
 
-* There should be an analysis of how the methods differ, and how it can affect their results
-* The qualitative experiments should be done comparatively, to explain the differing results, use cases, and limitations. If possible, those results should be linked to the theoretical analysis to explain why the results differ.
-* In the survey track, quantitative, comparative experiments are usually expected as well, if possible on varied datasets.
-
-Even more so than for the single-method track, the experiments should be done with critical thinking, and the paper should discuss how possible biases and different processing of use cases can alter the comparisons. The paper should also verify and mention if any of the tested methods were actually trained on this data.
-
-When preparing a survey track submission, the choice of compared methods should also be discussed. Full exhaustivity is of course not required — some methods have no published code, or the licence prevents use in IPOL —, but there should be some reasoning behind the choice of methods (e. g. comparing methods that follow a specific approach, or recent methods to further easy experimentation on them, etc) 
 
 ### IPOL track
 The IPOL track is the traditional track of IPOL submissions, and exists independently of the MLBriefs workshop.
-Regular IPOL papers place are more comprehensive, and typically longer than MLBriefs papers.
-The code is usually the authors' work as well.
 The description of the method is expected to be exhaustive, and supported by pseudo-code descriptions.
 Emphasis is placed on the reproducibility of the work:
 
 * If a model is trained, all information related to the data and the training should be provided in the article.
 * The article should contain enough information to recode the method from scratch, producing the exact same results as the submitted code.
 * In addition to the paper and online demo, **the code will be peer-reviewed to ensure that the submitted code exactly matches the article description and pseudo-code.**
+
+The code is usually the authors' work as well, although this is not a strict requirement.
+
+The article is complemented by a rigorous experimental analysis highlighting the use cases, strengths and limitations of the method. Papers can also explain the method from an alternative viewpoint than the original article, provide a rigorous theoretical analysis explaining why some of the strengths and limitations appear, and/or improve the method or adapt it to new domains.
 
 Due to this code peer-review requirement, note that IPOL submissions can only be considered if the code is submitted in Python, C, C++, Matlab or GNU Octave.
 If you want to submit code in other languages, please contact us first: submission may still be possible depending on the available reviewers.

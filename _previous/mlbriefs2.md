@@ -57,6 +57,7 @@ The following technical presentations were given throughout the week:
 ### General MLBriefs organization and program committee
 * **Quentin Bammey**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 * **Gabriele Facciolo**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
+* **Tina Nikoukhah**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
 * **Jérémy Anger**, Kayrros SAS, France / Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 
 ### Technical Committee
