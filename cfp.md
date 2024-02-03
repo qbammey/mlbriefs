@@ -82,3 +82,10 @@ In particular, joint submissions to IPOL and [SIIMS](http://www.siam.org/journal
 
 Upon acceptance, cross links between both electronic articles will be placed, so readers will be able to automatically navigate between the [SIIMS](http://www.siam.org/journals/siims.php) and IPOL complementary materials.
 
+## Page limits
+
+There is no set minimum or hard limit to the number of pages. Authors are free to write as long a paper as they deem reasonable. Note the following point:
+
+* Longer papers are perfectly acceptable when the contributions of the paper are extensive enough to justify it, however papers should not be needlessly long. Note that very long papers can be difficult to read for the audiance, and will also result in longer review times. When the paper is long, it becomes even more crucial that it be well-organized. Question the relevance of each part. Relevant but minor results can also be placed in an annex to simplified reading.
+* Papers are expected to provide a significant contribution. There can be excellent short papers, but papers without a meaningful contribution shall be rejected
+* Because there is no hard limit to the number of pages, there is no reason to tamper with the margins, rephrase the sentences to make them shorter at the cost of them being illegible, or reduce the figure sizes. Please keep the paper legible.
