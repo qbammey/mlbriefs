@@ -7,6 +7,8 @@ cover: true
 # Welcome to the 4<sup>th</sup> edition of the IPOL MLBriefs workshop and hackathon
 **<font size="4">May 27<sup>th</sup> — May 31<sup>st</sup>, 2024.</font>**
 
+**<font size="4">A BPI Sesame OVDSaas project</font>**
+
 In many fields of applied mathematics and computer science (computer vision, machine learning, image/signal processing, …), new methods and applications are appearing at a vertiginous pace, to the point it is hard to keep up with all new methods.
 Yet, being able to understand and try these methods oneself is crucial for research.
 

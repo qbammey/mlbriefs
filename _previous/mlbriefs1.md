@@ -2,10 +2,8 @@
 layout:      page
 title: MLBriefs 1
 date:        4 April 2022
-caption: MLBriefs 1 happened between April 4<sup>th</sup> and April 8<sup>th</sup>, 2022. The workshop had over 100 participants, and about 30 papers were published.
 featured:    false
 categories: [previous]
-image: ../assets/img/ipol_margin.png
 ---
 
 The first edition of the MLBriefs happened between April 4<sup>th</sup> and April 8<sup>th</sup>, 2022.

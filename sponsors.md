@@ -6,7 +6,7 @@ cover: false
 
 The IPOL MLBriefs workshop is a great place to meet young researchers. We expect more than 100 attendees from over the world.
 
-If you would like to sponsor the IPOL MLBriefs workshop, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSe8nDXjkeoDlcPq3dp-EqQTiykTQcOb7p3s_sEXw1k8VrplDw/viewform?usp=sf_link).
+If you would like to sponsor the IPOL MLBriefs workshop, please [contact us](mailto:contact@mlbriefs.com).
 
 Sponsor benefits include:
 

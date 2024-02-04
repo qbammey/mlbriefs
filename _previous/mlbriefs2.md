@@ -5,7 +5,6 @@ date:        10 October 2022
 caption: MLBriefs 2 happened between between October 10<sup>th</sup> and October 14<sup>th</sup>, 2022.
 featured:    false
 categories: [previous]
-image: ../assets/img/ipol_margin.png
 ---
 
 The second MLBriefs edition happened between October 10<sup>th</sup> and October 14<sup>th</sup>, 2022.

@@ -32,3 +32,4 @@ They develop the IPOL demo system and provide technical help to the participants
 * **Amyn Jaafar**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 * **Héctor Macías Casado**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 * **Jyotsna Rajan**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+* **Miguel Colom**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France

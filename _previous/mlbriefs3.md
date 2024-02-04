@@ -1,11 +1,8 @@
 ---
-layout:      project
+layout:      page
 title: MLBriefs 3
 date:        30 May 2023
-caption: MLBriefs 3 happened between May 30<sup>th</sup> and June 1<sup>st</sup>, 2023, with an additional presentation session of selected papers on December 12<sup>th</sup>, 2023.
-featured:    false
 categories: [previous]
-image: ../assets/img/ipol_margin.png
 ---
 
 MLBriefs 3 happened between May 30<sup>th</sup> and June 1<sup>st</sup>, 2023, with an additional presentation session of selected papers on December 12<sup>th</sup>, 2023. A restitution session, with presentations of accepted papers, was held on December 12<sup>th</sup>, 2023.
