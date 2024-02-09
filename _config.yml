@@ -26,12 +26,12 @@ title:                 IPOL MLBriefs 4
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The IPOL MLBriefs workshop and hackathon (May 27<sup>th</sup> — May 31<sup>st</sup>, 2024, École Normale Supérieure Paris-Saclay, France) is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination of machine learning, image and signal computing, computer vision, and other methods. 
+  The IPOL MLBriefs workshop (May 27<sup>th</sup> — May 31<sup>st</sup>, 2024, École Normale Supérieure Paris-Saclay, France) is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination of machine learning, image and signal computing, computer vision, and other methods. 
 
 # A shorter description for the sidebar.
 tagline:  <b>May 27<sup>th</sup> — May 31<sup>st</sup>, 2024 </b><br /><em> École Normale Supérieure Paris-Saclay, France.</em><br /><br />Learn to create online demos and technical articles, and promote reproducible research!
   
-  #  The IPOL MLBriefs workshop-hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
+  #  The IPOL MLBriefs workshop is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
 
 # A list of keywords for your blog
 keywords:              [IPOL, MLBriefs, reproducible research, online demo, image processing, signal processing, video processing, computer vision, machine learning]
@@ -58,17 +58,17 @@ menu:
   - title:    MLBriefs
     url:    /
   - title:    Important dates
-    url:    /dates/
-  - title:    Calls for papers
-    url:    /cfp/
-  - title: Organizing Committee
-    url: /committee/
+    url:    /#important-dates
+  - title:    Call for papers
+    url:    /#call-for-papers
+  - title: Organizing Committees
+    url: /#organizing-committees
   - title:    Program
-    url:    /program/
+    url:    /#program
   - title:    Venue and travel
-    url:    /venue/
+    url:    /#venue-and-travel
   - title:  Sponsors
-    url:    /sponsors/
+    url:    /#sponsors
   - title: Previous sessions
     url:    /previous/
       #  - title: Contact
@@ -85,8 +85,8 @@ menu:
 #    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023, [Quentin Bammey](https://bammey.com/) 2023. All rights reserved.
-
+# copyright:             © 2023, [Quentin Bammey](https://bammey.com/) 2023. All rights reserved.
+copyright: © 2023, [Image Processing On Line & the authors](https://www.ipol.im/) ![Open Access](assets/img/open-access.png)![Open Source](assets/img/open-source.png)![Open Data](assets/img/open-data.png)![IPOL](assets/img/ipol_banner.png)
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
 
@@ -106,14 +106,18 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/bckg_blur.jpeg
+#accent_image:          /assets/img/bckg_blur.jpeg
+accent_image: none
 #accent_color:          rgb(23,160,175)
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(115,103,179)
+
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(20,65,85)
+#theme_color:           rgb(20,65,85)
+theme_color: rgb(223, 222, 240)
+invert_sidebar: false
 #theme_color:           rgb(45,20,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
@@ -224,7 +228,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
@@ -280,15 +284,15 @@ hydejack:
   hide_last_modified:  true
 
   # Note that dark mode only works in the PRO version of Hydejack.
-  dark_mode:
+  #dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            false
+    #always:            false
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
-    sunrise: 6
-    sunset: 20
+    #dynamic:           true
+    #sunrise: 6
+    #sunset: 20
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    #icon:              true
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
@@ -420,19 +424,19 @@ jekyll_compose:
     drafts:
       layout: post
       description: >
-        The IPOL MLBriefs workshop and hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
+        The IPOL MLBriefs workshop is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
       image:
         path: /assets/img/ipol.png
     posts:
       layout: post
       description: >
-        The IPOL MLBriefs workshop and hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
+        The IPOL MLBriefs Workshop is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
       image:
         path: /assets/img/ipol.png
     projects:
       layout: project
       description: >
-        The IPOL MLBriefs workshop and hackathon is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
+        The IPOL MLBriefs Workshop is the perfect venue to help you create and publish online demos and technical articles of your methods and the state of the art, to promote reproducible research and dissemination.
       image:
         path: /assets/img/ipol.png
       links:

@@ -71,7 +71,8 @@ hy-drawer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: rgba(255, 255, 255, .75);
+  color: rgba(34, 33, 32, .75);
+  textcolor: rgba(34, 33, 32, .75);
   text-align: center;
   min-height: 100vh;
   &.invert { color: rgba(32, 32, 32, .75) }
@@ -79,13 +80,13 @@ hy-drawer {
 
   a {
     // <<< inline
-    color: #fff; 
-    border-bottom-color: rgba(255, 255, 255, 0.2); 
-    text-decoration-color: rgba(255, 255, 255, 0.2); 
+    color: rgb(34, 33, 32);
+    border-bottom-color: rgba(115, 103, 179, 0.5);
+    text-decoration-color: rgba(115, 103, 179, 0.4);
     // >>>
     // <<< link
     &:hover { 
-      border-bottom-color: #fff;
+      border-bottom-color: #ded8ff;
       text-decoration-color: #fff;
     }
     // >>>
