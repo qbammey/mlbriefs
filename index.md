@@ -119,21 +119,21 @@ There is no set minimum or hard limit to the number of pages. Authors are free t
 # Organizing Committees
 
 ### General MLBriefs organization
-**Quentin Bammey**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+**[Quentin Bammey](https://bammey.com/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 
 ### Program Committee
 They invite plenary speakers and organize the workshop program
-* **Gabriele Facciolo**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
+* **[Gabriele Facciolo](https://gfacciol.github.io/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
 * **Pablo Musé**, Universidad de la República, Montevideo, Uruguay
-* **Jean-Michel Morel**, City University of Hong Kong (CityU), Hong Kong
-* **Quentin Bammey**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
+* **[Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/)**, City University of Hong Kong (CityU), Hong Kong
+* **[Quentin Bammey](https://bammey.com/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
 
 ### Editorial board
 They manage the reviewing process for the submitted papers
 
 #### MLBriefs track
-* **Quentin Bammey**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
-* **Gabriele Facciolo**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
+* **[Quentin Bammey](https://bammey.com/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+* **[Gabriele Facciolo](https://gfacciol.github.io/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, Gif-sur-Yvette, France
 * **Pablo Musé**, Universidad de la República, Montevideo, Uruguay
 
 #### IPOL track
@@ -142,12 +142,13 @@ They manage the reviewing process for the submitted papers
 
 ### Technical Committee
 They develop the IPOL demo system and provide technical help to the participants on demo creation
-* **Jérémy Anger**, Kayrros SAS, France / Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+* **[Jérémy Anger](https://github.com/kidanger)**, Kayrros SAS, France / Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 * **Amyn Jaafar**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
 * **Héctor Macías Casado**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
-* **Jyotsna Rajan**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
-* **Miguel Colom**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
-* **Tina Nikoukhah**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+* **[Quentin Bammey](https://bammey.com/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+* **[Tina Nikoukhah](https://nikoukhah.com/tina/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+* **[Miguel Colom](http://mcolom.perso.math.cnrs.fr/)**, Centre Borelli, École Normale Supérieure Paris-Saclay, Université Paris-Saclay, France
+
 
 # Program
 
@@ -204,3 +205,6 @@ Sponsor benefits include:
 
 Your sponsorship will help funding the organization of the workshop, possibly travel grants for international attendees, and foster the overall development of the [IPOL](ipol.im) platform.
 
+# Contact us
+
+You can contact us at the following address (remove the AT, DOT and underscores): contact_AT_mlbriefs_DOT_com

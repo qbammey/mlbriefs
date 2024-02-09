@@ -45,8 +45,8 @@ logo:                  /assets/img/ipol_margin.png
 author:
   # Used by `jekyll-feed`:
     name:                Quentin Bammey
-    social:
-      email:               contact@mlbriefs.com
+    #social:
+    #  email:               contact@mlbriefs.com
     #  github:              qbammey
     #  linkedin:            quentin-bammey-802290173
     #  scholar:             gLEhMQQAAAAJ
@@ -71,6 +71,8 @@ menu:
     url:    /#sponsors
   - title: Previous sessions
     url:    /previous/
+  - title: Contact us
+    url:  /#contact-us
       #  - title: Contact
       #url:    /contact/
 
@@ -86,7 +88,7 @@ menu:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 # copyright:             © 2023, [Quentin Bammey](https://bammey.com/) 2023. All rights reserved.
-copyright: © 2023, [Image Processing On Line & the authors](https://www.ipol.im/) ![Open Access](assets/img/open-access.png)![Open Source](assets/img/open-source.png)![Open Data](assets/img/open-data.png)![IPOL](assets/img/ipol_banner.png)
+copyright: © 2023, [Image Processing On Line & the authors](https://www.ipol.im/) ![Open Access](/assets/img/open-access.png)![Open Source](/assets/img/open-source.png)![Open Data](/assets/img/open-data.png)![IPOL](/assets/img/ipol_banner.png)
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
 
